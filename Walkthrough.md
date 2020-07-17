@@ -1,6 +1,6 @@
 1)	Create a repository of your name 
 
-![](Images/1)New Repository.png)
+![](https://github.com/RaviHarsha/RaviHarsha/blob/master/Images/1New%20Repository.png)
  
 
 2)	Edit the Read me file 
